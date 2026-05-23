@@ -10,7 +10,7 @@
 <!-- ANIMATED TYPING BANNER -->
 <div align="center">
   <a href="https://github.com/sunil-kumawat-54">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=800&color=00FFD1&center=true&vCenter=true&multiline=false&random=false&width=700&height=55&lines=🚀+Building+AI-Powered+Products;📊+ML+Observability+%26+Data+Dashboards;🏆+GATE+2026+Qualified+—+Score+343;🥈+₹30%2C000+Prize+Winner+@+Reckon+7.0;⚡+React+·+Python+·+Power+BI+·+Gen+AI" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=800&color=00FFD1&center=true&vCenter=true&width=700&height=55&lines=Building+AI-Powered+Products;ML+Observability+%26+Data+Dashboards;GATE+2026+Qualified+-+Score+343;Rs.30%2C000+Prize+Winner+%40+Reckon+7.0;React+%7C+Python+%7C+Power+BI+%7C+Gen+AI" alt="Typing SVG"/>
   </a>
 </div>
 
